@@ -2,6 +2,10 @@
 
 This repository contains a simple interactive website built using HTML, Tailwind CSS, and JavaScript, allowing users to increment and decrement a value with just a click. The website provides an intuitive interface with responsive design, thanks to Tailwind CSS.
 
+## Live Link
+
+   https://aashu47.github.io/Increment-Decrement-website/
+   
 ## Features
 . Increment Value: Clicking on the " + " button will increase the value displayed on the website by 1.
 
